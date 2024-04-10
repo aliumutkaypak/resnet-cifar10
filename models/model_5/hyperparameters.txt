@@ -1,0 +1,5 @@
+blocks_in_layers = [4, 5, 4, 3]
+num_layers = 4
+dr= 0.0 
+num_channels= [32, 64, 128, 256]
+avg_pool_kernel_s=4
